@@ -26,27 +26,9 @@
   
     },
     {
- 
-   	        "name": "One UI 31",
-		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22D.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22D.jpg",
-		"author": "Samsung",
-		"downloadable": "True"
-  
-    },
-    {
    	        "name": "One UI 32",
 		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S22E.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22E.jpg",
-		"author": "Samsung",
-		"downloadable": "True"
-  
-    },
-    {
- 
-   	        "name": "One UI 33",
-		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S22F.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22F.jpg",
 		"author": "Samsung",
 		"downloadable": "True"
   
@@ -68,14 +50,6 @@
 		"author": "Samsung",
 		"downloadable": "True"
   
-    },
-    {
- 
-   	        "name": "One UI 36",
-		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S22I.png",
-		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22I.jpg",
-		"author": "Samsung",
-		"downloadable": "True"
     },
     {
    
