@@ -1,18 +1,16 @@
 [
-  
-
     {
 		"name": "One UI 18",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2018.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2018.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "TRUE"
     },
     {
 		"name": "One UI 19",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2019.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2019.jpg",
-		"collections": "Xiaomi",
+		"author": "Xiaomi",
 		"downloadable": "True"
     
     },
@@ -20,7 +18,7 @@
    	        "name": "One ui 20",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2020.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2020.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -29,7 +27,7 @@
    	        "name": "One UI 21",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2021.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2021.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -37,7 +35,7 @@
    	        "name": "One ui 22",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2022.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2022.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -46,7 +44,7 @@
    	        "name": "One UI 23",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2023.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2023.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -55,7 +53,7 @@
    	        "name": "One UI 24",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2024.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2024.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -64,7 +62,7 @@
    	        "name": "One UI 25",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2025.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2025.jpg",
-		"collections": "Xiaomi",
+		"author": "Xiaomi",
 		"downloadable": "True"
   
     },
@@ -73,7 +71,7 @@
    	        "name": "One UI 26",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2026.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2026.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
@@ -82,7 +80,7 @@
    	        "name": "One UI 27",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2027.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/One%20UI%2027.jpg",
-		"collections": "Samsung",
+		"author": "Samsung",
 		"downloadable": "True"
   
     },
