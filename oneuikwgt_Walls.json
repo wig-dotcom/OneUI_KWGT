@@ -1,6 +1,86 @@
 [
    
     {
+		"name": "One UI 17",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S201.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S201.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 18",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S202.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S202.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "One UI 19",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S203.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S203.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 20",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S204.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S204.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "One UI 21",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S205.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S205.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 22",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S206.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S206.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		
+                "name": "One UI 23",
+		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S207.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S207.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 24",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S208.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S208.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 25",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S209.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S209.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 26",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S210.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S210.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
+		"name": "One UI 27",
+		"url": "https://github.com/wig-dotcom/OneUI_KWGT/raw/main/S211.png",
+		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S211.jpg",
+		"collections": "Samsung",
+		"downloadable": "True"
+    },
+    {
 		"name": "One UI 28",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22A.png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/main/S22A.jpg",
