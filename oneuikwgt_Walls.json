@@ -5,14 +5,14 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(7).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(7).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		"name": "One UI 37",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(3).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(3).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		
@@ -20,14 +20,14 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(4).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(4).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		"name": "One UI 39",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(5).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(5).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		
@@ -35,14 +35,14 @@
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(6).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(6).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		"name": "One UI 41",
 		"url": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(8).png",
 		"thumbnail": "https://raw.githubusercontent.com/wig-dotcom/OneUI_KWGT/refs/heads/main/001%20(8).jpg",
 		"collections": "Samsung",
-		"downloadable": "True"
+		"downloadable": "false"
     },
     {
 		"name": "One UI 17",
